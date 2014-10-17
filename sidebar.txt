@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ywu:home|Door43 (ywu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ywu|d43-ywu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ywu/archive/master.zip|d43-ywu.zip]]
+
+**Recent Changes**
+{{changes>ns = ywu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ywu|Ethnologue data]]
+
